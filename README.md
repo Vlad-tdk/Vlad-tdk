@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Vlad-tdk&color=brightgreen)
 
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
+</div>
+
 #### Connect with me:
 
 [<img align="left" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
@@ -21,18 +25,4 @@
 
 [telegram]: http://t.me/smile_ios
 
-<!--
-**Vlad-tdk/Vlad-tdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/aIJDrOomj81MQZz2uO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ArkusNexus-palmar22-viajemind-thesandboxmind-aIJDrOomj81MQZz2uO">via GIPHY</a></p>
