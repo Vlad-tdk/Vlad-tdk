@@ -4,7 +4,7 @@
 
 #### Connect with me:
 
-[<img align="left" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
+[<img align="center" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
 
 [<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
 
