@@ -8,7 +8,7 @@
 
 [<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
 
-[<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />]
+[<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
 
 [post]: xalif80@gmail.com
 
