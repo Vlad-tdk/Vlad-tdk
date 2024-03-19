@@ -64,5 +64,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vlad-tdk&theme=highcontrast&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-tdk&show_icons=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-tdk&show_icons=true&theme=blue-green&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
