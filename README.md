@@ -45,14 +45,10 @@
 
 [<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
 
-[<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
-
 [<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/facebook/#3b5998" />][facebook]
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100088619546738
-
-[post]: xalif80@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/vladimir-martemianov-6b12072bb
 
