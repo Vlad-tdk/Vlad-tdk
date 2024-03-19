@@ -4,9 +4,9 @@
 
 #### Connect with me:
 
-[<img align="center" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
+[<img align="rigth" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
 
-[<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
+[<img align="rigth" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
 
 [<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
 
