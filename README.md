@@ -56,7 +56,7 @@
 
 [linkedin]: https://www.linkedin.com/in/vladimir-martemianov-6b12072bb/
 
-[telegram]: http://t.me/smile_ios/
+[telegram]: http://t.me/smail_ios
 
 </div>
   
