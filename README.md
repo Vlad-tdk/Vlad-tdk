@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B10EE&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=750&lines=Nice+to+meet+you!%09+I'm+Vladimir%2C+and+I'm+an+iOS+developer.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?Vlad-tdk=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Vlad-tdk&color=brightgreen)
 <!--
 **Vlad-tdk/Vlad-tdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
