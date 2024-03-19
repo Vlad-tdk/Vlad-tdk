@@ -33,13 +33,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json" alt="Jason" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Git" width="40" height="40"/>&nbsp;
-</div>
+</div>  
 
----
+---  
 
 <div align="center">
 
-#### Connect with me:
+#### Connect with me:  
 
 [<img align="left" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
 
