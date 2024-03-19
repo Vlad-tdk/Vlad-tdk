@@ -2,7 +2,19 @@
 
 ![](https://komarev.com/ghpvc/?username=Vlad-tdk&color=brightgreen)
 
-![](https://www.codewars.com/users/Vlad-tdk/badges/small)
+#### Connect with me:
+
+[<img align="left" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
+
+[<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
+
+[<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
+[post]: xalif80@gmail.com
+
+[linkedin]: https://www.linkedin.com/in/vladimir-martemianov-6b12072bb/
+
+[telegram]: http://t.me/smile_ios
+
 <!--
 **Vlad-tdk/Vlad-tdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
