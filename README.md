@@ -41,11 +41,11 @@
 
 #### Connect with me:  
 
-[<img align="left" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
+[<img align="left" alt="Vladimir Martemianov | LinkedIn" width="22px" src="https://github.com/Vlad-tdk/icon/blob/main/ln.png" />][linkedin]
 
-[<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
+[<img align="left" alt="Vladimir Martemianov | Telegram" width="22px" src="https://github.com/Vlad-tdk/icon/blob/main/tg.png" />][telegram]
 
-[<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://cdn.simpleicons.org/facebook/#3b5998" />][facebook]
+[<img align="left" alt="Vladimir Martemianov | Post" width="22px" src="https://github.com/Vlad-tdk/icon/blob/main/fb.png" />][facebook]
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100088619546738
