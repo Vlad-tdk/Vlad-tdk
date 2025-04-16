@@ -50,7 +50,7 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100088619546738
 
-[linkedin]: (https://www.linkedin.com/in/vladimir-m-6b12072bb/)
+[linkedin]: https://www.linkedin.com/in/vladimir-m-6b12072bb
 
 [telegram]: http://t.me/smail_ios
 
