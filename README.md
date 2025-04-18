@@ -4,18 +4,16 @@
 
 ---
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B10EE&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=750&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Vlad-tdk&color=brightgreen)
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B10EE&center=true&vCenter=true&repeat=true&width=750&lines=Nice+to+meet+you!" alt="Typing SVG" />
+</p>
+
 
 </div>
+ <div align="center">
 
----
-
-<div align="center">
-
-### :man_technologist:
 ### 👋 Hi, I'm Vladimir 
 iOS developer with a strong focus on AI and real-time user experience.
 
@@ -24,8 +22,13 @@ iOS developer with a strong focus on AI and real-time user experience.
 - 💬 Topics I enjoy: UIKit, SwiftUI, Firebase, on-device AI, LM Studio integration  
 - 📫 Reach out: tdk@null.net
 
-
+![](https://komarev.com/ghpvc/?username=Vlad-tdk&color=brightgreen)
 </div>
+
+
+
+---
+
 
 ---
 
