@@ -15,7 +15,15 @@
 
 <div align="center">
 
-### :man_technologist: About Me : I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
+### :man_technologist:
+### 👋 Hi, I'm Vlad  
+iOS developer with a strong focus on AI and real-time user experience.
+
+- 🔭 Currently building: Cognitive agents, modular UI components for iOS, and embedded search tools  
+- 🌱 Exploring: SwiftData, LLM-based assistants, Rust for performance-critical tasks  
+- 💬 Topics I enjoy: UIKit, SwiftUI, Firebase, on-device AI, LM Studio integration  
+- 📫 Reach out: tdk@null.net
+
 
 </div>
 
