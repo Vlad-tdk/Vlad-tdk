@@ -1,4 +1,7 @@
 <div id="header" align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B10EE&center=true&vCenter=true&repeat=true&width=750&lines=Nice+to+meet+you!" alt="Typing SVG" />
+</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlxcDJjaDN4dnpwMm9tOTNxZXRkdHk5YjllcnVrNTA5bjNrODI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
@@ -6,9 +9,7 @@
 <div align="center">
 
   
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B10EE&center=true&vCenter=true&repeat=true&width=750&lines=Nice+to+meet+you!" alt="Typing SVG" />
-</p>
+
 
 
 </div>
