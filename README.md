@@ -76,5 +76,5 @@ iOS developer with a strong focus on AI and real-time user experience.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vlad-tdk&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-tdk&show_icons=true&theme=blue-green&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
